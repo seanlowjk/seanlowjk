@@ -1,4 +1,4 @@
-# Hi, My Name is Sean! :smile:
+# Hi, My Name is Sean!
 
 <br />
 
