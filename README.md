@@ -26,7 +26,7 @@
 
 ### About Me 
 
-I am a Year 3 Computer Science Student at the National University of Singapore (NUS). I am currentky learning Full-Stack Development and teaching basic Objected-Oriented Programming skills at NUS. 
+I am a Year 3 Computer Science Student at the National University of Singapore (NUS). I am currently learning Full-Stack Development and teaching basic Objected-Oriented Programming skills at NUS. 
 
 <a href="https://seanlowjk.github.io/website/Resume.pdf" target="_blank">
   <img width="60px" alt="Updates" src="https://img.shields.io/badge/-Resume-000000?style=flat-square&logoColor=white">
