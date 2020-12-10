@@ -38,6 +38,8 @@ I am a Year 3 Computer Science Student at the National University of Singapore (
 
 <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 
+<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+
 <img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 
 <img align="left" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
@@ -46,6 +48,8 @@ I am a Year 3 Computer Science Student at the National University of Singapore (
 
 <img align="left" alt="css3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 
+<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+
 <img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 
 <br />
@@ -53,6 +57,8 @@ I am a Year 3 Computer Science Student at the National University of Singapore (
 #### Frameworks 
 
 <img align="left" alt="react" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+
+<img align="left" alt="react" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
 
 <img align="left" alt="rubyonrails" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rubyonrails.svg" />
 
