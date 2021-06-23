@@ -1,68 +1,60 @@
 # Hi, My Name is Sean!
 
-<br />
-
 <a href="https://seanlowjk.github.io/website/">
-  <img align="left" alt="Sean's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+  <img  alt="Sean's Website" src="https://img.shields.io/badge/-Website-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge" />
 </a>
 
 <a href="mailto:sean.low.jk@u.nus.edu">
-  <img align="left" alt="Sean's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
+  <img  alt="Sean's Github" src="https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/seanlowjk/">
-  <img align="left" alt="Sean's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img  alt="Sean's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
 <a href="https://t.me/seanlowjk">
-  <img align="left" alt="Sean's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img  alt="Sean's Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />
 </a>
 
 <a href="https://www.github.com/seanlowjk/">
-  <img align="left" alt="Sean's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img  alt="Sean's Github" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
 </a>
 
 <br />
 
-### About Me 
+## About Me 
 
 I am a Year 3 Computer Science Student at the National University of Singapore (NUS). I am currently learning Full-Stack Development and teaching basic Objected-Oriented Programming skills at NUS. 
 
 <a href="https://seanlowjk.github.io/website/Resume.pdf" target="_blank">
-  <img width="60px" alt="Updates" src="https://img.shields.io/badge/-Resume-000000?style=flat-square&logoColor=white">
+  <img alt="Resume" src="https://img.shields.io/badge/-Resume-EC1C24?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge">
 </a>
 
-### Technologies 
 
-#### Programming Languages
+## Technologies 
 
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+### Programming Languages
 
-<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-
-<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-
-<img align="left" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
-
-<img align="left" alt="html5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-
-<img align="left" alt="css3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-
-<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-
-<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img alt="java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" /> <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img alt="typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+<img alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="postgresql" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img alt="mysql" src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img alt="html5" src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="css3" src="https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+<img alt="csharp" src="https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+<img alt="ruby" src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
+<img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
 
 <br />
 
-#### Frameworks 
+### Frameworks 
 
-<img align="left" alt="react" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-
-<img align="left" alt="react" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-
-<img align="left" alt="rubyonrails" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rubyonrails.svg" />
-
-<img align="left" alt="nodejs" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img alt="node.js" src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /> <img alt="express" src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge" />
+<img alt="react" src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+<img alt="angular" src="https://img.shields.io/badge/-angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+<img alt="django" src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+<img alt="ruby-on-rails" src="https://img.shields.io/badge/-ruby on rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" />
 
 <br />
 
