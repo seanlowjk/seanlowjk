@@ -24,7 +24,7 @@
 
 ## About Me 
 
-I am a Year 3 Computer Science Student at the National University of Singapore (NUS). I am currently learning Full-Stack Development and teaching basic Objected-Oriented Programming skills at NUS. 
+I am a Software Engineer at Shopee Singgapore. Previously a Computer Science Student at the National University of Singapore (NUS). 
 
 <a href="https://seanlowjk.github.io/website/Resume.pdf" target="_blank">
   <img alt="Resume" src="https://img.shields.io/badge/-Resume-EC1C24?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge">
@@ -35,6 +35,7 @@ I am a Year 3 Computer Science Student at the National University of Singapore (
 
 ### Programming Languages
 
+<img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
 <img alt="java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" /> <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -44,7 +45,6 @@ I am a Year 3 Computer Science Student at the National University of Singapore (
 <img alt="css3" src="https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 <img alt="csharp" src="https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
 <img alt="ruby" src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
-<img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
 
 <br />
 
